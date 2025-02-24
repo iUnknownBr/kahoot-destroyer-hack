@@ -121,3 +121,47 @@ Agradecemos a todos os colaboradores e usuários que apoiam este projeto! 💚
 
 **Atualizado No Dia:** 24 Fevereiro De 2025
 **Versão:** 1.0.0
+
+---
+<details>  
+  <summary>Tags</summary>
+kahoot
+
+kahoot-hack
+
+kahoot-tool
+
+kahoot-automation
+
+kahoot-bot
+
+kahoot-cheat
+
+kahoot-answers
+
+kahoot-game
+
+kahoot-education
+
+kahoot-entertainment
+
+kahoot-script
+
+kahoot-destroyer
+
+kahoot-hacking-tool
+
+kahoot-educational-tool
+
+kahoot-fun
+
+kahoot-multiplayer
+
+kahoot-automated-answers
+
+kahoot-js
+
+kahoot-api
+
+kahoot-solver  
+</details>
