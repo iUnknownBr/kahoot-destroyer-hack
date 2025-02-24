@@ -5,6 +5,9 @@
 **Desenvolvido por:**  
 - **[iUnknowBr](https://github.com/iUnknownBr)**  
 - **[!im Snow?](https://guns.lol/imsnow)**  
+- **[Dark Mod3](https://github.com/darkmod3)**  
+- **[Marcos10pc](https://github.com/marcos10pc)**  
+- **[LouysAtx](https://o.crsp.space)**  
 
 ---
 
@@ -91,9 +94,10 @@ O **Kahoot Destroyer** é uma ferramenta desenvolvida para fins educacionais e d
 ## 👨‍💻 Desenvolvedores  
 - **[!im Snow?](https://guns.lol/imsnow)**  
 - **[iUnknowBr](https://github.com/iUnknownBr)**  
-- **[Dark Mod3](https:/github.com/darkmod3)**
-- **[Marcos10pc](https://github.com/marcos10pc)**
-- **[LouysAtx](https://o.crsp.space)
+- **[Dark Mod3](https://github.com/darkmod3)**  
+- **[Marcos10pc](https://github.com/marcos10pc)**  
+- **[LouysAtx](https://o.crsp.space)**  
+
 ---
 
 ## ⚠️ Aviso Legal  
@@ -101,6 +105,25 @@ Este projeto é uma ferramenta de código aberto desenvolvida para fins educacio
 
 ---
 
+## 👀 Contador de Visualizações  
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=KahootDestroyer&color=1dff56&style=flat-square&label=Visualizações)  
+
+---
+
 ![Desenvolvido por: !im Snow?](https://cdn.discordapp.com/attachments/1326756804889280553/1343581864656506951/image.png?ex=67bdcb9f&is=67bc7a1f&hm=449e661a9eb2162099ea41bfccbfd63920a05022925013c90db1a2fb3905c172&)  
 
-**By:** _[!im Snow?](https://guns.lol/imsnow)_ & _[iUnknowBr](https://github.com/iUnknownBr)_
+**By:** _[!im Snow?](https://guns.lol/imsnow)_ & _[iUnknowBr](https://github.com/iUnknownBr)_  
+
+---
+
+### Agradecimentos Especiais  
+Agradecemos a todos os colaboradores e usuários que apoiam este projeto! 💚  
+
+---
+
+**Nota Final:** Este projeto foi criado com o intuito de promover a diversão e o aprendizado. Utilize-o com responsabilidade e sempre respeite as regras e diretrizes dos serviços envolvidos.  
+
+--- 
+
+**Atualizado em:** Outubro de 2023  
+**Versão:** 1.0.0
