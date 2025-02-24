@@ -2,13 +2,6 @@
 
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1dff56&text=KAHOOT%20DESTROYER&fontColor=fffefe&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
 
-**Desenvolvido por:**  
-- **[iUnknowBr](https://github.com/iUnknownBr)**  
-- **[!im Snow?](https://guns.lol/imsnow)**  
-- **[Dark Mod3](https://github.com/darkmod3)**  
-- **[Marcos10pc](https://github.com/marcos10pc)**  
-- **[LouysAtx](https://o.crsp.space)**  
-
 ---
 
 ## 🌐 Nosso Discord!  
