@@ -97,7 +97,8 @@ O **Kahoot Destroyer** é uma ferramenta desenvolvida para fins educacionais e d
 - **[Dark Mod3](https://github.com/darkmod3)**  
 - **[Marcos10pc](https://github.com/marcos10pc)**  
 - **[LouysAtx](https://o.crsp.space)**  
-
+- **[Chat Gpt](https://chatgpt.com/)**
+- **[Deep Seek](https://chat.deepseek.com/)**
 ---
 
 ## ⚠️ Aviso Legal  
